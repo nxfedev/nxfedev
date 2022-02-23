@@ -1,0 +1,15 @@
+local PDRanks = {
+    [1] = { Rank = "Commissioner", PayCheck = 89000 },
+    [2] = { Rank = "Deputy Commissioner", PayCheck = 75000 },
+    [3] = { Rank = "Assistant Commissioner", PayCheck = 75000 },
+    [4] = { Rank = "Deputy Assistant Commissioner", PayCheck = 75000 },
+    [5] = { Rank = "Commander", PayCheck = 70000 },
+    [6] = { Rank = "Chief Superintendent", PayCheck = 500 },
+    [7] = { Rank = "Superintendent", PayCheck = 500 },
+    [8] = { Rank = "Chief Inspector", PayCheck = 500 },
+    [9] = { Rank = "Inspector", PayCheck = 500 },
+    [10] = { Rank = "Sergeant", PayCheck = 500 },
+    [11] = { Rank = "Constable", PayCheck = 500 },
+    [12] = { Rank = "PCSO", PayCheck = 500 },
+    [13] = { Rank = "Off Duty", PayCheck = 500 },
+}

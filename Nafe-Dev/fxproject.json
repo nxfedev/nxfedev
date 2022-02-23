@@ -1,0 +1,27 @@
+{
+  "assets": {
+    "vrpscript": {
+      "enabled": true
+    },
+    "kiwi": {
+      "enabled": true
+    }
+  },
+  "serverUpdateChannel": "recommended",
+  "systemResources": [
+    "basic-gamemode",
+    "map-skater",
+    "chat",
+    "playernames",
+    "mapmanager",
+    "spawnmanager",
+    "sessionmanager",
+    "baseevents",
+    "hardcap",
+    "webpack",
+    "yarn"
+  ],
+  "name": "Nafe-Dev",
+  "createdAt": "2021-09-07T09:50:58.169Z",
+  "variables": {}
+}
