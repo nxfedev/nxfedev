@@ -231,3 +231,6 @@ function Comma(amount)
   end
   return formatted
 end
+
+
+--- shows the format of the the K menu
