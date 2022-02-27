@@ -18,4 +18,4 @@ server_scripts {
 	"sv_main.lua",
 }
 
---- dont use the fivem forums anymore so please contact me on discord
+--- dont use the fivem forums anymore so please contact me on discord above!
